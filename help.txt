@@ -1,0 +1,49 @@
+Welcome to Ut Tooti ☺
+Hope you're not finding it too hard to use :)
+
+Caution: In this app, CAPITAL LETTERS and small letters are considered equal in commands, but not user names or passwords
+
+Here's the list of commands you can use:
+
+1. signup <new user name> <password>
+example: signup hamid 12#t
+description: creates an account for you
+
+2. login <user name> <password>
+example: login erfan pnh2880
+description: gets connected to your account if already exists
+
+3. post <text>
+example: post Argentina is the winner of the world cup!!
+description: posts what you give it
+
+4. like <user name> <post ID>
+example: like Navid 7
+description: it's used to like a post
+
+5. logout
+example: logout
+description: logs out of your account
+
+6. delete <post_id>
+example: delete 3
+description: deletes the post of yours which has <post_id> as its id
+
+7. info
+example: info
+description: shows your information, including user name, password, and all your posts and number of their ♥likes♥
+
+8. find_user <username>
+example: find_user darya23
+description: shows a user's information, including user name and all your posts and number of their ♥likes♥. no password will be shown
+
+9. help
+example: help
+description: shows this text you're currently reading :)
+
+10. exit
+example: exit
+description: exits UT Tooti. Will miss you :(
+
+Hope that was helpful
+ ♣ bye ♣
