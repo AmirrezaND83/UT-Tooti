@@ -10,3 +10,4 @@ These are compilers used to code the project:
 I recomend using same or higher versions of the same compiler (MinGW) to run the code
 
 Good Luck 
+ 
